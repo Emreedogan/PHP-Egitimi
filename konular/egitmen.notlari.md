@@ -120,6 +120,7 @@ Solitaire|```sudo snap install solitaire```
 
 
 
-
+PHP KODU ÇALIŞMIYORSA 
+https://askubuntu.com/questions/451708/php-script-not-executing-on-apache-server
 
 
